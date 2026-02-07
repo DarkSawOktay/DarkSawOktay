@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USER_GITHUB_ICI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USER_GITHUB_ICI&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkSawOktay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSawOktay&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
