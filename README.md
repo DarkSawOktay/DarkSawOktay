@@ -20,16 +20,8 @@
 
 ---
 
-### 🔥 Coding Streak
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSawOktay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/oktay-gençer-6595b8342/">
+  <a href="https://www.linkedin.com/in/oktay-gencer-6595b8342/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:genceroktay21@gmail.com">
