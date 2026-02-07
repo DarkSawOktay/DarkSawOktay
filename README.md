@@ -20,11 +20,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Coding Streak
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darksawoktay)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Langages de Oktay](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSawOktay&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSawOktay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
