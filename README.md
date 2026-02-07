@@ -22,12 +22,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DarkSawOktay&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSawOktay&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-  </a>
-</div>
+[![Stats de Oktay](https://github-readme-stats.vercel.app/api?username=DarkSawOktay&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Langages de Oktay](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSawOktay&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
